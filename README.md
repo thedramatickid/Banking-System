@@ -1,5 +1,5 @@
 # Basic_Banking_System
-This project is done as a part of The Sparks Foundation Internship  #GRIPNOV2020
+This project is done as a part of The Sparks Foundation Internship  #GRIPMar21
 
 [![email](https://img.shields.io/static/v1.svg?label=Basic_Banking&message=System&color=grey&logo=gmail&style=flat&logoColor=white&colorA=critical)](https://github.com/thedramatickid/bank1) [![outlook](https://img.shields.io/static/v1.svg?label=Outlook&message=Template&color=grey&logo=microsoft-outlook&style=flat&logoColor=white&colorA=dodgerblue)](https://github.com/thedramatickid/bank1)
 
